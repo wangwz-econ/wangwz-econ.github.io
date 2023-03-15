@@ -9,8 +9,6 @@ redirect_from:
 
 <br/>
 
-# Wenzhi Wang (王文郅)
-
 I am Wenzhi Wang, a Mphil student at the University of Oxford.
 
 Statements of My Fields of Interest
