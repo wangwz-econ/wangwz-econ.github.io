@@ -11,7 +11,7 @@ author_profile: true
 
 - [Notes](https://wangwz-econ.github.io/files/Slides on Rust 1987.pdf) 
 
-- [Replication Exercises](https://wangwz-econ.github.io/teaching/2014-spring-teaching-1)
+- [Replication Exercises](https://wangwz-econ.github.io/replicationexercises/rust1987)
 
 - One-Sentence Summary: Nested fixed point algorithm requires us to first fully obtain the conditional value function by solving a contraction mapping, taken the parameters as known and then maximize the log-likelihood by going through all possible parameter values.
 
