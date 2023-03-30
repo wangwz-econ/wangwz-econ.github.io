@@ -9,9 +9,11 @@ author_profile: true
 
 ### \[1\] Rust (1987, Econometrica)
 
-- [Notes](https://wangwz-econ.github.io/files/Slides on Rust 1987.pdf) [Replication Exercises](https://wangwz-econ.github.io/rust1987)
+- [Notes](https://wangwz-econ.github.io/files/Slides on Rust 1987.pdf) 
 
-- One-Sentence Summary: Nested fixed point algorithm requires us to first fully obtain the conditional value function by solving a contraction mapping, taken the parameters as known and then maximize the log-likelihood by going through parameter values.
+- [Replication Exercises](https://wangwz-econ.github.io/replicationexercises/rust1987.md)
+
+- One-Sentence Summary: Nested fixed point algorithm requires us to first fully obtain the conditional value function by solving a contraction mapping, taken the parameters as known and then maximize the log-likelihood by going through all possible parameter values.
 
 
 ### \[2\] Practical Methods for Estimation of Dynamic Discrete Choice Models (2010, Annual Review of Economics)
