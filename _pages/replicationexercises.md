@@ -13,20 +13,22 @@ author_profile: true
 
 - [Replication Exercises](https://wangwz-econ.github.io/replicationexercises/rust1987)
 
-- One-Sentence Summary: Nested fixed point algorithm requires us to first fully obtain the conditional value function by solving a contraction mapping, taken the parameters as known and then maximize the log-likelihood by going through all possible parameter values.
+- One-Sentence Summary: Nested fixed point algorithm requires us to first fully obtain the ex ante value function by solving a contraction mapping and form the log-likelihood function, taken the parameters as known, and then maximize the log-likelihood by going through all possible parameter values.
 
 
 ### \[2\] Practical Methods for Estimation of Dynamic Discrete Choice Models (2010, Annual Review of Economics)
 
 - [Notes](https://wangwz-econ.github.io/files/Slides on Practical Methods for Estimation of Dynamic Discrete Choice Models.pdf)
 
-- One-Sentence Summary: If the model contains certain terminal or renewal actions, to estimate the parameters, it is useful to express the conditional value function as a function of conditional choice probabilities, which can be nonparametrically estimated in the data. 
+- One-Sentence Summary: If the choice set contains certain terminal or renewal decisions, to estimate the parameters, it is useful to express the conditional value function as a function of conditional choice probabilities, which can be nonparametrically estimated in the data. 
 
-- Empirical Examples: Murphy (2018, AEJ: Economic Policy) 
+- Empirical Examples: Murphy (2018, AEJ: Economic Policy) [Notes](https://wangwz-econ.github.io/files/A Dynamic Model of Housing Supply.pdf) 
 
     -- Land development as a terminal decision in a dynamic land supply model.
 
-    -- [Summary Slides] and [Replication Exercise] 
+## Macro Papers
+
+### \[1\] Growing Like China (AER, 2011)
 
 
 
