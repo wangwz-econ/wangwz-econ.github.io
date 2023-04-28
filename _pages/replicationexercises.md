@@ -29,9 +29,6 @@ author_profile: true
 ### \[3\] The Career Decisions of Young Men (1997, JPE)
 - [Notes](https://wangwz-econ.github.io/files/Notes on Keane and Wolpin 1997.pdf)
 
-## Macro Papers
-
-### \[1\] Growing Like China (AER, 2011)
 
 
 
