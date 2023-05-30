@@ -18,7 +18,9 @@ author_profile: true
 ### Optimal Replacement of GMC Bus Engines: An Empirical Model of Harold Zurcher (1987, Econometrica)
 
 - [Paper Notes](https://wangwz-econ.github.io/files/Slides on Rust 1987.pdf); [Replication Notes](https://wangwz-econ.github.io/files/Rust 1987 Replication Notes.pdf); [Replication Codes](https://github.com/wangwz-econ/Rust-1987)
-<!---  - Summary: Nested fixed point algorithm requires us to first obtain the ex ante value function by solving a contraction mapping and form the log-likelihood function, taken the parameters as known, and then maximize the log-likelihood by going through all possible parameter values. --->
+<!---  
+- Summary: Nested fixed point algorithm requires us to first obtain the ex ante value function by solving a contraction mapping and form the log-likelihood function, taken the parameters as known, and then maximize the log-likelihood by going through all possible parameter values. 
+- --->
 
 
 ### The Endogenous Grid Method for Discrete-Continuous Dynamic Choice Models with (or without) Taste Shocks (2017, Quantitative Economics)
